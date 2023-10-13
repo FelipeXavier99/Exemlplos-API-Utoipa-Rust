@@ -1,9 +1,0 @@
-[package]
-name = "rust_api_example"
-version = "0.1.0"
-edition = "2018"
-
-[dependencies]
-actix-web = "3"
-utoipa = "4"
-utoipa-swagger-ui = { version = "4.0", features = ["actix-web"] }
